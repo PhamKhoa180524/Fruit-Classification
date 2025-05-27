@@ -30,8 +30,8 @@
 ```
 ## Set up
 ```bash
-git clone https://github.com/PhamKhoa180524/CS221.git
-cd cs221
+git clone https://github.com/PhamKhoa180524/Fruit-Classification.git
+cd Fruit-Classification
 pip install -r requirements.txt
 ```
 ## DEMO
